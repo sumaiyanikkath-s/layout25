@@ -1,0 +1,75 @@
+.headerx .wrapper
+{
+	width:80%;
+	margin:auto;
+} 
+.banner .wrapper
+{
+	width:80%;
+	margin:auto;
+} 
+.headerx
+{
+	background-color:lightgray;
+	height:81px;
+}
+.headerx .headerx-fc
+{
+	display:flex;
+	justify-content:space-between;
+	text-align:center;
+}
+.headerx .headerx-fc .boxa
+{
+	background-color:skyblue;
+	height:50px;
+	width:8%;
+	margin-top:10px;
+}
+.headerx .headerx-fc .boxb
+{
+	background-color:skyblue;
+	height:50px;
+	width:45%;
+	margin-top:10px;
+}
+.headerx .headerx-fc .boxc
+{
+	background-color:skyblue;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.banner
+{
+	background-color:lightblue;
+	height:514px;
+}
+.banner .banner-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+}
+.banner .banner-fc .texta
+{
+	width:100%;
+	text-align:center;
+	margin-top:50px;
+}
+.banner .banner-fc .boxa
+{
+	width:13%;
+	height:48px;
+	background-color:blueviolet;
+	margin-top:100px;
+}
+.banner .banner-fc .boxb
+{
+	width:13%;
+	height:48px;
+	background-color:blueviolet;
+	margin-top:100px;
+}
